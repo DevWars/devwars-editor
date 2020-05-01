@@ -17,7 +17,7 @@
         "watch:server": "nodemon --ignore src/client/ --ignore public node --inspect src/server"
     },
     "devDependencies": {
-        "@babel/core": "^7.9.0",
+        "@babel/core": "^7.9.6",
         "@babel/plugin-proposal-object-rest-spread": "^7.9.0",
         "@babel/polyfill": "^7.8.7",
         "@babel/preset-env": "^7.9.0",
